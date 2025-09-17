@@ -3,5 +3,5 @@ public class MyApex1 {
   string b;
   string c;
   string d;
-  string e;
+  string abcd;
 }
